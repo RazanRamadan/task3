@@ -1,0 +1,119 @@
+div nav{
+    color: #777;
+    display: flex;
+}
+
+h1{
+    color: white;
+    font-family: "Prata", serif;
+}
+
+*{
+    padding: 0px;
+    margin: 0px;
+}
+
+.jon{
+    font-size: 200%;
+    
+}
+
+.clear{
+    clear: both;
+    }
+
+li{
+list-style-type: none;
+color: #777;
+}
+
+ul{
+    display: flex;
+    justify-content: center;
+    padding: 10px;
+}
+
+.button2{
+    background-color: yellow;
+    color: black;
+    text-align: center;
+    border: none;
+    border-radius: 1px;
+    padding: 15px 40px;
+    margin-left: 50px;
+    margin-bottom: 200px;
+    font-size: larger;
+}
+
+.button1{
+    background-color: yellow;
+    color: black;
+    text-align: center;
+    border: none;
+    border-radius: 1px;
+    padding: 15px 35px;
+    margin-left: 1000px;
+    margin-bottom: 200px;
+    font-size: larger;
+}
+
+.pic{
+    width: 15%;
+    height: auto;
+}
+
+.big{
+    font-size: 80px;
+
+}
+
+.c11{
+    width: 50%;
+    height: auto;
+}
+
+.pad{
+    padding: 20px;
+}
+
+.ooo{
+    display: flex;
+    justify-content: center;
+}
+
+.gray_div{
+    background-color: #444;
+    height: 250px;
+    width: 100%;
+}
+
+p{
+color: #777;
+}
+
+.gray_p{
+    color: #aaa;
+}
+
+.logo{
+    width: 5%;
+    height: auto;
+}
+
+.gray_div2{
+    background-color: #777;
+    padding: 0px;
+    height: 50px;
+    width: 100%;
+}
+
+.bb{
+    background-color: black;
+}
+
+.bb2{
+    background-color: black;
+display: flex;
+justify-content: center;
+}
+
