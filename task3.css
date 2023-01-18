@@ -1,6 +1,23 @@
-div nav{
+nav{
     color: #777;
+     background-color: black;
     display: flex;
+    justify-content: center;
+}
+
+.nav1{
+
+}
+
+.nav2{
+width: 1000px;
+height: auto;
+display: flex;
+justify-content: center;
+}
+
+.nav3{
+
 }
 
 h1{
@@ -111,9 +128,5 @@ color: #777;
     background-color: black;
 }
 
-.bb2{
-    background-color: black;
-display: flex;
-justify-content: center;
-}
+
 
